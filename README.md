@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Santanu</h1>
-<h3 align="center">A curious developer who loves crafting clean backends, powerful APIs, and meaningful full-stack projects using Python, Django, and SQL. My GitHub is a playground of experiments, real-world projects, and continuous learning—where every commit tells a story of growth, problem-solving, and passion for technology. Always building, always learning, and always pushing one step closer to better code</h3>
+<h3 align="center">Python and Django developer passionate about building clean, scalable web applications and REST APIs. Always learning and improving through real-world projects</h3>
 
 - 🔭 I’m currently working on [MealSmith – Intelligent Food Ordering & Delivery Platform](https://github.com/santanu69/mealsmith)
 
